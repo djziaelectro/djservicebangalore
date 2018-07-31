@@ -718,19 +718,7 @@
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2018-6-2-21-47-49-740990.jpg",
-                "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=YoHg6upuEMQ",
-                "image": "@THEME_PATH@/components/_images/gallery/gallery00.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/gallery00.jpg",
-                "alt": "",
-                "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Awesome",
@@ -766,7 +754,7 @@
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ]
           }
