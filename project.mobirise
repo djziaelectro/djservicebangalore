@@ -698,38 +698,14 @@
             "gallery": [
               {
                 "tags": " DJ Mix",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2018-6-2-21-47-49-740990.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-7-4-2-20-7-929911.jpg",
                 "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=YoHg6upuEMQ",
+                "videoUrl": "https://www.youtube.com/watch?v=8Rkxg3WFMIc&feature=youtu.be",
                 "image": "@THEME_PATH@/components/_images/gallery/gallery00.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/gallery00.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Electro House Mix",
-                "active": true
-              },
-              {
-                "tags": "Pop Folk Mix",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2018-4-4-4-17-38-850690.jpg",
-                "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=GyGxyjSIJ3g",
-                "image": "@THEME_PATH@/components/_images/gallery/gallery07.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/gallery07.jpg",
-                "alt": "",
-                "customStyle1": "display-7",
-                "caption": "Pop Folk Mix",
-                "active": false
-              },
-              {
-                "tags": "Wedding",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2018-6-2-21-48-51-524620.jpg",
-                "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=L_gWBKT0-VA",
-                "image": "@THEME_PATH@/components/_images/gallery/gallery00.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/gallery00.jpg",
-                "alt": "",
-                "customStyle1": "display-7",
-                "caption": "Wedding",
                 "active": false
               },
               {
@@ -742,6 +718,18 @@
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Dubstep Mix",
+                "active": false
+              },
+              {
+                "tags": "Wedding",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-6-2-21-48-51-524620.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=L_gWBKT0-VA",
+                "image": "@THEME_PATH@/components/_images/gallery/gallery00.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/gallery00.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "Wedding",
                 "active": false
               },
               {
@@ -863,6 +851,18 @@
                 "customStyle1": "display-7",
                 "caption": "Wedding",
                 "active": false
+              },
+              {
+                "tags": "Pop Folk Mix",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-4-4-4-17-38-850690.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=GyGxyjSIJ3g",
+                "image": "@THEME_PATH@/components/_images/gallery/gallery07.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/gallery07.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "Pop Folk Mix",
+                "active": true
               },
               {
                 "tags": "Party",
