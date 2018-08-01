@@ -680,7 +680,7 @@
             }
           },
           "_name": "gallery3",
-          "_customHTML": "<section class=\"mbr-gallery mbr-slider-carousel\" group=\"Sliders & Gallery\" plugins=\"Masonry,BootstrapCarouselSwipe,Gallery,VimeoPlayer,SliderVideo\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"0\" inline>\n        <input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"0\" inline>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#554346\">\n        <input type=\"checkbox\" title=\"Gradient Overlay\" name=\"gradOverlay\" checked>\n        <input type=\"color\" title=\"Overlay Color 2\" name=\"overlayColor2\" value=\"#45505b\" condition=\"gradOverlay\">\n        <input type=\"range\" title=\"Overlay Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" inline>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n\n        <input type=\"gallery\" title=\"Gallery\" name=\"gallery\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div mbr-gallery=\"gallery\" mbr-gallery-spacing=\"4\"></div>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"mbr-gallery mbr-slider-carousel\" group=\"Sliders & Gallery\" plugins=\"Masonry,BootstrapCarouselSwipe,Gallery,VimeoPlayer,SliderVideo\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"0\" inline>\n        <input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"0\" inline>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#554346\">\n        <input type=\"checkbox\" title=\"Gradient Overlay\" name=\"gradOverlay\" checked>\n        <input type=\"color\" title=\"Overlay Color 2\" name=\"overlayColor2\" value=\"#45505b\" condition=\"gradOverlay\">\n        <input type=\"range\" title=\"Overlay Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" inline>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n\n        <input type=\"gallery\" title=\"Gallery\" name=\"gallery\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div mbr-gallery=\"gallery\" mbr-gallery-spacing=\"1\" mbr-gallery-show-text mbr-gallery-show-filter></div>\n    </div>\n\n</section>",
           "_cid": "qTyW7ieO8t",
           "_anchor": "gallery3-11",
           "_protectedParams": [
@@ -697,7 +697,7 @@
             "gallery__filtersBtnStyle": "btn-primary-outline",
             "gallery": [
               {
-                "tags": "Awesome",
+                "tags": " DJ Mix",
                 "videoPreview": "@PROJECT_PATH@/assets/images/2018-6-2-21-47-49-740990.jpg",
                 "playVideo": true,
                 "videoUrl": "https://www.youtube.com/watch?v=YoHg6upuEMQ",
@@ -705,11 +705,11 @@
                 "thumb": "@THEME_PATH@/components/_images/gallery/gallery00.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": false
+                "caption": "Electro House Mix",
+                "active": true
               },
               {
-                "tags": "Animated",
+                "tags": "Pop Folk Mix",
                 "videoPreview": "@PROJECT_PATH@/assets/images/2018-4-4-4-17-38-850690.jpg",
                 "playVideo": true,
                 "videoUrl": "https://www.youtube.com/watch?v=GyGxyjSIJ3g",
@@ -717,11 +717,11 @@
                 "thumb": "@THEME_PATH@/components/_images/gallery/gallery07.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Pop Folk Mix",
                 "active": false
               },
               {
-                "tags": "Awesome",
+                "tags": "Wedding",
                 "videoPreview": "@PROJECT_PATH@/assets/images/2018-6-2-21-48-51-524620.jpg",
                 "playVideo": true,
                 "videoUrl": "https://www.youtube.com/watch?v=L_gWBKT0-VA",
@@ -729,11 +729,11 @@
                 "thumb": "@THEME_PATH@/components/_images/gallery/gallery00.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Wedding",
                 "active": false
               },
               {
-                "tags": "Awesome",
+                "tags": "DJ Mix",
                 "videoPreview": "@PROJECT_PATH@/assets/images/2018-6-2-21-49-14-963119.jpg",
                 "playVideo": true,
                 "videoUrl": "https://www.youtube.com/watch?v=33lH3yl9j-0",
@@ -741,11 +741,11 @@
                 "thumb": "@THEME_PATH@/components/_images/gallery/gallery00.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Dubstep Mix",
                 "active": false
               },
               {
-                "tags": "Awesome",
+                "tags": "Party",
                 "videoPreview": "@PROJECT_PATH@/assets/images/2018-6-2-21-50-4-342281.jpg",
                 "playVideo": true,
                 "videoUrl": "https://www.youtube.com/watch?v=feeiC3vxDQU",
@@ -753,31 +753,127 @@
                 "thumb": "@THEME_PATH@/components/_images/gallery/gallery00.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
+                "caption": "Bachelor Party @ Resort",
+                "active": false
+              },
+              {
+                "tags": "Party",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-7-4-1-5-48-136131.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=XTuXzJZHDvg&index=28&list=UU7OYZqNam_1e0NhVDJ440FA",
+                "image": "@THEME_PATH@/components/_images/gallery/gallery00.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/gallery00.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "New Year Party @ Assetz",
+                "active": false
+              },
+              {
+                "tags": "Party",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-7-4-1-6-23-980519.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=RyQjD2a-0yo&index=27&list=UU7OYZqNam_1e0NhVDJ440FA",
+                "image": "@THEME_PATH@/components/_images/gallery/gallery00.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/gallery00.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "Cocktail Party @ Pub",
+                "active": false
+              },
+              {
+                "tags": "Wedding",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-7-4-1-10-42-205207.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=w1fBIjTciRg&index=19&list=UU7OYZqNam_1e0NhVDJ440FA",
+                "image": "@THEME_PATH@/components/_images/gallery/gallery00.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/gallery00.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "Kashmiri Wedding",
+                "active": false
+              },
+              {
+                "tags": "Wedding",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-7-4-1-9-50-220465.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=l2ZAGHTzVq8&index=26&list=UU7OYZqNam_1e0NhVDJ440FA",
+                "image": "@THEME_PATH@/components/_images/gallery/gallery00.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/gallery00.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "Wedding",
+                "active": false
+              },
+              {
+                "tags": "Wedding",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-7-4-1-11-13-871165.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=e3o1d54AUd0&index=24&list=UU7OYZqNam_1e0NhVDJ440FA",
+                "image": "@THEME_PATH@/components/_images/gallery/gallery00.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/gallery00.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/logo.jpg",
+                "tags": "Wedding",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-7-4-1-11-32-43728.jpg",
                 "playVideo": true,
-                "videoUrl": "https://www.youtube.com/edit?o=U&video_id=RyQjD2a-0yo",
+                "videoUrl": "https://www.youtube.com/watch?v=qNeVRNNVyOM&index=25&list=UU7OYZqNam_1e0NhVDJ440FA",
                 "image": "@THEME_PATH@/components/_images/gallery/gallery00.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/gallery00.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": true
+                "caption": "Sangeet",
+                "active": false
               },
               {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/logo.jpg",
+                "tags": "Wedding",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-7-4-1-12-11-73483.jpg",
                 "playVideo": true,
-                "videoUrl": "https://www.youtube.com/edit?o=U&video_id=XTuXzJZHDvg",
+                "videoUrl": "https://www.youtube.com/watch?v=An5VeF2vG2k&list=UU7OYZqNam_1e0NhVDJ440FA&index=21",
                 "image": "@THEME_PATH@/components/_images/gallery/gallery00.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/gallery00.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Sangeet",
+                "active": false
+              },
+              {
+                "tags": "Wedding",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-7-4-1-14-25-17140.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=AqKgssy_4uk&list=UU7OYZqNam_1e0NhVDJ440FA&index=15",
+                "image": "@THEME_PATH@/components/_images/gallery/gallery00.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/gallery00.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "Sangeet",
+                "active": false
+              },
+              {
+                "tags": "Wedding",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-7-4-1-15-27-333668.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=PeXmGXK9v-I&index=16&list=UU7OYZqNam_1e0NhVDJ440FA",
+                "image": "@THEME_PATH@/components/_images/gallery/gallery00.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/gallery00.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "Wedding",
+                "active": false
+              },
+              {
+                "tags": "Party",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-7-4-1-16-53-21567.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=OZFLysKpTNM&list=UU7OYZqNam_1e0NhVDJ440FA&index=12",
+                "image": "@THEME_PATH@/components/_images/gallery/gallery00.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/gallery00.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "Corporate Event @ Infosys",
                 "active": false
               }
             ]
