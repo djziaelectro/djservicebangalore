@@ -709,6 +709,18 @@
                 "active": false
               },
               {
+                "tags": " DJ Mix",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-7-6-4-0-20-88191.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=A537fLbZ2m8",
+                "image": "@THEME_PATH@/components/_images/gallery/gallery00.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/gallery00.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "Electro House Mix",
+                "active": true
+              },
+              {
                 "tags": "DJ Mix",
                 "videoPreview": "@PROJECT_PATH@/assets/images/2018-6-2-21-49-14-963119.jpg",
                 "playVideo": true,
@@ -862,7 +874,7 @@
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Pop Folk Mix",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Party",
